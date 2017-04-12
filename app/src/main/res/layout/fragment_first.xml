@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dattahujare.navigationdrwaerproject.fragment.FirstFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/btnOneFrag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_margin="3dp"
+            android:text="Inner One Fragment"
+            android:textSize="20dp"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorButton"/>
+        <Button
+            android:id="@+id/btnTwoFrag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_margin="3dp"
+            android:text="Inner Two Fragment"
+            android:textSize="20dp"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorButton"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>

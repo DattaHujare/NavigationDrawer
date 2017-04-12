@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Navigation Drwaer Project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inner_one_fragment">Inner One Fragment</string>
+    <string name="inner_five_fragment">Inner Five Fragment</string>
+    <string name="inner_three_fragment">Inner Three Fragment</string>
+    <string name="inner_two_fragment">Inner Two Fragment</string>
+    <string name="inner_six_fragment">Inner Six Fragment</string>
+    <string name="inner_four_fragment">Inner Four Fragment</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="share_somthing">Share Somthing</string>
+</resources>

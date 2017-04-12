@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home Fragment" />
+        <item
+            android:id="@+id/nav_first_frag"
+            android:title="First Fragment" />
+        <item
+            android:id="@+id/nav_second_frag"
+            android:title="Second Fragment" />
+        <item
+            android:id="@+id/nav_third_frag"
+            android:title="Third Fragment" />
+        <item
+            android:id="@+id/nav_one_frag"
+            android:title="Inner One Fragment" />
+        <item
+            android:id="@+id/nav_two_frag"
+            android:title="Inner Two Fragment" />
+        <item
+            android:id="@+id/nav_three_frag"
+            android:title="Inner Three Fragment" />
+        <item
+            android:id="@+id/nav_four_frag"
+            android:title="Inner Four Fragment" />
+        <item
+            android:id="@+id/nav_five_frag"
+            android:title="Inner Five Fragment" />
+        <item
+            android:id="@+id/nav_six_frag"
+            android:title="Inner Six Fragment" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
